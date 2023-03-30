@@ -3,12 +3,7 @@
 <section>
 <p align="center">
     <img align="center" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light" />
-    <br><br><br>
-    <img align="center" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&theme=solarized-light" />
-
     
-   
-
 ### Hi there 👋
 
 <!--
@@ -29,6 +24,15 @@
   - 🎧 Steam: <a href = "https://steamcommunity.com/id/collin-streitman/">@collin.streitman</a>
   -  LinkedIn: <a href = "www.linkedin.com/in/collinstreitman">LinkedIn</a>
   - 📷 Instagram: <a href = "https://www.instagram.com/collin.streitman/">@collin.streitman</a>
+
+
+    
+<details>
+  <summary>:octocat: My Programming Languages:</summary>
+    <br>
+  <p align = center>
+    <img align="center" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&hide=shell&theme=solarized-light" />
+</details>
 
     
 
