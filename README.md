@@ -1,11 +1,17 @@
+
+# Welcome to my GitHub
+<section>
+<p align="center">
+    <img align="center" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light" />
+
+    
+   
+
 ### Hi there 👋
 
 <!--
 **CStre/CStre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🧐 **I’m currently working on:** 
     - A Peer-Programming Project in Software Engineering written in java 
     - Emulating a Y86 Processesor in my Systems 1 Lab written in C
@@ -22,4 +28,9 @@
   -  LinkedIn: <a href = "www.linkedin.com/in/collinstreitman">LinkedIn</a>
   - 📷 Instagram: <a href = "https://www.instagram.com/collin.streitman/">@collin.streitman</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+    
+ <p align="center">
+    <img align="center" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&theme=solarized-light" />
+    </section>
+    
+
