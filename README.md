@@ -1,14 +1,14 @@
 
-# Welcome to my GitHub
-<section>
-<p align="center">
-    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light" />
-    
-### Hi there 👋
+## Welcome to my GitHub!
+ <p align = "center">
+ <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light"/><br>
 
+##
+### Hi there 👋
 <!--
 **CStre/CStre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 - 🧐 **I’m currently working on:** 
     - A Peer-Programming Project in Software Engineering written in java 
     - Emulating a Y86 Processesor in my Systems 1 Lab written in C
@@ -24,16 +24,14 @@
   - 🎧 Steam: <a href = "https://steamcommunity.com/id/collin-streitman/">@collin.streitman</a>
   -  LinkedIn: <a href = "www.linkedin.com/in/collinstreitman">LinkedIn</a>
   - 📷 Instagram: <a href = "https://www.instagram.com/collin.streitman/">@collin.streitman</a>
-
-
     
-<details>
-  <summary>:octocat: Check out my languages summary:</summary>
     <br>
-  <p align = center>
-    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=12&layout=compact&theme=solarized-light" />
-</details>
- 
+    
+## Presented Languages
+<br>
+  <p align = "center">
+    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&layout=compact&theme=solarized-light"/>
+
     
 
     
