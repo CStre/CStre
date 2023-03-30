@@ -28,7 +28,7 @@
 
     
 <details>
-  <summary>:octocat: My Programming Languages:</summary>
+  <summary>:octocat: Check out my languages summary:</summary>
     <br>
   <p align = center>
     <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&theme=solarized-light" />
