@@ -2,7 +2,7 @@
 # Welcome to my GitHub
 <section>
 <p align="center">
-    <img align="center" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light" />
+    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light" />
     
 ### Hi there 👋
 
@@ -31,7 +31,7 @@
   <summary>:octocat: My Programming Languages:</summary>
     <br>
   <p align = center>
-    <img align="center" alt="reismgadsden's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&layout=compact&theme=solarized-light" />
+    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&layout=compact&theme=solarized-light" />
 </details>
 
     
