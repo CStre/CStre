@@ -31,7 +31,7 @@
   <summary>:octocat: Check out my languages summary:</summary>
     <br>
   <p align = center>
-    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&layout=compact&theme=solarized-light" />
+    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=12&layout=compact&theme=solarized-light" />
 </details>
  
     
