@@ -22,15 +22,14 @@
 - 💭 Ask me about where I am studying abroad this summer!
 - 🔎 **Find me elsewhere:**
   - 🎧 Steam: <a href = "https://steamcommunity.com/id/collin-streitman/">@collin.streitman</a>
-  -  LinkedIn: <a href = "www.linkedin.com/in/collinstreitman">LinkedIn</a>
+  - 💻 LinkedIn: <a href = "www.linkedin.com/in/collinstreitman">LinkedIn</a>
   - 📷 Instagram: <a href = "https://www.instagram.com/collin.streitman/">@collin.streitman</a>
-    
     <br>
     
-## Presented Languages
+## Presented Languages ⚙️
 <br>
   <p align = "center">
-    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=10&layout=compact&theme=solarized-light"/>
+    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=12&card_width=1000&layout=compact&theme=solarized-light"/>
 
     
 
