@@ -1,7 +1,7 @@
 
 ## Welcome to my GitHub!
  <p align = "center">
- <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=solarized-light"/><br>
+ <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=algolia"/><br>
 
 ##
 ### Hi there 👋
@@ -29,7 +29,7 @@
 ## Presented Languages ⚙️
 <br>
   <p align = "center">
-    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=12&card_width=1000&layout=compact&theme=solarized-light"/>
+    <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&langs_count=12&card_width=1000&layout=compact&theme=algolia"/>
 
     
 
