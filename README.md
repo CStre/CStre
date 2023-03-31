@@ -14,7 +14,6 @@
     - Emulating a Y86 Processesor in my Systems 1 Lab written in C
     - Webpage Developement where I have multiple projects from each unit  written using CSS,
       JavaScript, and HTML
-    - Webpage Development using Angular
 - 📫 **How to reach me:** collinm.streitman@gmail.com
 - 👉 **Pronouns:** He/Him
 - 🎓 **Current Education:** Undergraduate Computer Science Major/ CIS Minor | Appalachian State University
