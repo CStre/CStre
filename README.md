@@ -9,7 +9,7 @@
 **CStre/CStre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🧐 **I’m currently working on:** 
+- 😊 **I’m currently working on:** 
     - A Peer-Programming Project in Software Engineering written in java 
     - Emulating a Y86 Processesor in my Systems 1 Lab written in C
     - Webpage Developement where I have multiple projects from each unit  written using CSS,
