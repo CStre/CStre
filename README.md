@@ -1,7 +1,7 @@
 
 ## Welcome to my GitHub!
  <p align = "center">
- <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&theme=algolia"/><br>
+ <img align="center" alt="Collin Streitman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CStre&count_private=true&show_icons=true&card_width=1000&theme=algolia"/><br>
 
 ##
 ### Hi there 👋
