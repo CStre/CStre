@@ -21,7 +21,7 @@
 - 💭 Ask me about where I am studying abroad this summer!
 - 🔎 **Find me elsewhere:**
   - 🎧 Steam: <a href = "https://steamcommunity.com/id/collin-streitman/">@collin.streitman</a>
-  - 💻 LinkedIn: <a href = "www.linkedin.com/in/collinstreitman">LinkedIn</a>
+  - 💻 LinkedIn: <a href = "https://www.linkedin.com/in/collinstreitman">LinkedIn</a>
   - 📷 Instagram: <a href = "https://www.instagram.com/collin.streitman/">@collin.streitman</a>
     <br>
     
