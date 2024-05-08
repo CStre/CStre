@@ -80,12 +80,12 @@
 <p align="center">
   <table>
     <tr>
-      <td rowspan="3" width="30%" border="none">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&layout=donut-vertical&langs_count=18" />
+      <td rowspan="3" width="35%" border="none">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&layout=donut-vertical&langs_count=18" style="height: 100%;" />
       </td>
       <td align="left" border="none">
-        <img src="https://github-readme-stats.vercel.app/api?username=CStre&theme=swift&hide_border=true&include_all_commits=false&count_private=false" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CStre&theme=swift&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CStre&theme=swift&hide_border=true&include_all_commits=false&count_private=false" style="width: 100%;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CStre&theme=swift&hide_border=true" style="width: 100%;" />
       </td>
     </tr>
   </table>
@@ -93,7 +93,8 @@
 
 
 ### ✍️ Random Dev Quote
-<p align="center" width="55%">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" style="width: 40%;" />
 </p>
+
 
