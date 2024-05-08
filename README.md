@@ -91,10 +91,3 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=CStre&limit=5&theme=flat&combine_all_yearly_contributions=true" />
 </p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=CStre&icon=5&color=1" />
-  </a>
-</p>
