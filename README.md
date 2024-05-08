@@ -80,10 +80,10 @@
 <p align="center">
   <table>
     <tr>
-      <td>
+      <td rowspan="3">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&layout=donut-vertical&langs_count=18" />
       </td>
-      <td rowspan="2">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=CStre&theme=swift&hide_border=true&include_all_commits=false&count_private=false" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CStre&theme=swift&hide_border=true" />
       </td>
