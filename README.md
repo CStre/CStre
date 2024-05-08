@@ -76,11 +76,21 @@
 
 
 # 📊 GitHub Stats:
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CStre&theme=swift&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CStre&theme=swift&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStre&layout=donut-vertical&langs_count=18" />
+      </td>
+      <td rowspan="2">
+        <img src="https://github-readme-stats.vercel.app/api?username=CStre&theme=swift&hide_border=true&include_all_commits=false&count_private=false" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CStre&theme=swift&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ### ✍️ Random Dev Quote
 <p align="center">
