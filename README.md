@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile! Here you will find my proudest works and learn more about who I am beyond the code. My goal is for this profile to serve not just as a technical showcase of repositories, but as a narrative of my growth and evolution through my journey in Computer Science.
 
-### One transformative lesson life has taught me is that nothing is more important than what you do with what you have. While meaning, in any context, is subjective, it is unequivocally real.
+### One transformative lesson life has taught me is that nothing is more important than what you do with what you have and that while meaning, in any context, is subjective, it is unequivocally real and nessessary for growth
 
 ## When I'm Not Coding:
 - 🏕️ Taking long backpacking and camping trips across vast wilderness
