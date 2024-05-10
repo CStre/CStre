@@ -24,14 +24,32 @@
 - 🎉 Fun fact: I studied abroad at the University of Oxford in the United Kingdom and took a course on Artificial Intelligence.
 
 # 🌐 Connect with Me:
-- 🌍 [My Portfolio](https://www.collinstreitman.com/)
-- 📧 [Email](mailto:collinm.streitman@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/collinstreitman/)
-- 🕹️ [Steam](https://steamcommunity.com/id/collin-streitman/)
+<p align="center">
+  <a href="https://www.collinstreitman.com/">
+    <img src="./portfolio.svg" alt="Portfolio" width="150" />
+  </a>
+  <a href="https://www.linkedin.com/in/collinstreitman/">
+    <img src="./linkedin.svg" alt="LinkedIn" width="150" />
+  </a>
+  <a href="mailto:collinm.streitman@gmail.com">
+    <img src="./email.svg" alt="Email" width="150" />
+  </a>
+  <a href="https://discordapp.com/users/811296358916685855">
+    <img src="./discord.svg" alt="Discord" width="150" />
+  </a>
+  <a href="https://steamcommunity.com/id/collin-streitman/">
+    <img src="./steam.svg" alt="Steam" width="150" />
+  </a>
+</p>
+
 
 
 ## Featured Project
-### [DRAN Stack Capstone Project!](https://www.buildingbetteralgorithms.com/)
+<p align="center">
+  <a href="https://www.buildingbetteralgorithms.com/">
+    <img src="./capstone.svg" alt="Capstone" width="150" />
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
