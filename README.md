@@ -17,7 +17,16 @@
 - 🌟 Living in the moment and cherishing every person and new experience I encounter
 
 ## Education
-### 🎓 Bachelor of Science in Computer Science with a minor in Computer Information Systems from Appalachian State University
+<p align="center">
+  <img src="appstate.svg" alt="Appalachian State University Logo" width="200"/>
+  <br>
+  <strong>Appalachian State University</strong>
+  <br>
+  <em>🎓 Bachelor of Science in Computer Science</em>
+  <br>
+  with a minor in Computer Information Systems
+</p>
+
 
 ## Let's Talk:
 - 📚 Ask me about my favorite project, my greatest accomplishment, or my most meaningful experience.
