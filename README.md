@@ -32,7 +32,7 @@
 - 📚 Ask me about my favorite project, my greatest accomplishment, or my most meaningful experience.
 - 🎉 Fun fact: I studied abroad at the University of Oxford in the United Kingdom and took a course on Artificial Intelligence.
 
-# 🌐 Connect with Me:
+# 🚀 Connect with Me:
 <p align="center">
   <a href="https://www.collinstreitman.com/">
     <img src="./portfolio.svg" alt="Portfolio" width="150" />
@@ -61,7 +61,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+# 🔥 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
