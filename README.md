@@ -16,13 +16,13 @@
 - 📸 Photographing and videographing beautiful expansive landscapes to symmetric concrete jungles
 - 🌟 Living in the moment and cherishing every person and new experience I encounter
 
-## Education
+# 🎓Education
 <p align="center">
   <img src="appstate.svg" alt="Appalachian State University Logo" width="200"/>
   <br>
   <strong>Appalachian State University</strong>
   <br>
-  <em>🎓 Bachelor of Science in Computer Science</em>
+  <em>Bachelor of Science in Computer Science</em>
   <br>
   with a minor in Computer Information Systems
 </p>
@@ -56,7 +56,7 @@
 ## Featured Project
 <p align="center">
   <a href="https://www.buildingbetteralgorithms.com/">
-    <img src="./capstone.svg" alt="Capstone" width="150" />
+    <img src="./capstone.svg" alt="Capstone" width="250" />
   </a>
 </p>
 
@@ -102,8 +102,7 @@
 
 
 
-# 📊 GitHub Stats:
-<!-- GitHub Stats -->
+# 📊 Tech Stats:
 <p align="center">
   <table>
     <tr>
