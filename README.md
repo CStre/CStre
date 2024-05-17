@@ -93,4 +93,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" style="width: 40%;" />
 </p>
 
+https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&reversal=false&section=footer
+
 
