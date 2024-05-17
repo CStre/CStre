@@ -1,3 +1,11 @@
+<p align="center">
+ <img src="https://img.shields.io/github/last-commit/CStre/CStre" />
+ <img src="https://img.shields.io/github/stars/CStre?style=flat&logo=github" alt="Stars"/>
+ <img src="https://img.shields.io/github/followers/CStre?style=flat&logo=github"/>
+ <img src="https://img.shields.io/badge/status-up-brightgreen"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=CStre"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&pause=1000&color=00DEB7&vCenter=true&repeat=true&random=true&width=447&height=73&lines=%F0%9F%91%8B+Hi%2C+I'm+Collin!)](https://git.io/typing-svg)
 
 ### Welcome to my GitHub profile! Here you will find my proudest works and learn more about who I am beyond the code. My goal is for this profile to serve not just as a technical showcase of repositories, but as a narrative of my growth and evolution through my journey in Computer Science.
