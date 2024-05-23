@@ -81,7 +81,7 @@
 
 
 
-# 📊 Tech Stats:
+# 📊 Account Stats:
 <p align="center">
   <table>
     <tr>
