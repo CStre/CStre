@@ -22,7 +22,7 @@
 - 🎿 Skiing and completely disconnecting from technology
 - 🌍 Completing service work with nonprofits to support local and international communities
 - 📅 Planning my next adventure to a place I've never been
-- 📸 Photographing and videographing beautiful expansive landscapes to symmetric concrete jungles
+- 📸 Photographing or videographing beautiful expansive landscapes to symmetrical concrete jungles
 - 🌟 Living in the moment and cherishing every person and new experience I encounter
 
 # 🎓Education
