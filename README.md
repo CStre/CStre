@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://img.shields.io/github/last-commit/CStre/CStre" />
+ <img src="https://img.shields.io/github/last-commit/CStre/PORTFOLIO" />
  <img src="https://img.shields.io/github/stars/CStre?style=flat&logo=github" alt="Stars"/>
  <img src="https://img.shields.io/github/followers/CStre?style=flat&logo=github"/>
  <img src="https://img.shields.io/badge/status-up-brightgreen"/>
