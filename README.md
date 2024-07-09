@@ -29,7 +29,7 @@
 <p align="center">
   <img src="appstate.svg" alt="Appalachian State University Logo" width="200"/>
   <br>
-  <strong>Appalachian State University</strong>
+  <strong>Appalachian State University </strong>
   <br>
   <em>Bachelor of Science in Computer Science</em>
   <br>
