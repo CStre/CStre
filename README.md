@@ -64,7 +64,7 @@
 
 ## Featured Project
 <p align="center">
-  <a href="https://www.buildingbetteralgorithms.com/">
+  <a href="https://www.buildbetteralgorithms.com/">
     <img src="./capstone.svg" alt="Capstone" width="250" />
   </a>
 </p>
